@@ -1,2 +1,3 @@
 # feedback-app
-Created with CodeSandbox
+Created with ❤️ from Garry
+Check it out- https://garry-feedback-app.netlify.app/
